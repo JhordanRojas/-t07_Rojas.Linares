@@ -1,6 +1,6 @@
-# -t07_Rojas.Linares
+# t07_Rojas.Linares
 Trabajo 07 - Bucles en Python 
  
--Rojas Lizana, Jhordan
+- Rojas Lizana, Jhordan
 
--Linares Olano, Erick
+- Linares Olano, Erick
