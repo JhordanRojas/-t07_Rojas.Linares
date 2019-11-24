@@ -8,6 +8,5 @@ while (a<=b):
     a+=1
 
 #Fin_para
-
 print("La suma de los primeros 50 numeros es:", summ)
 print("fin del bucle")
